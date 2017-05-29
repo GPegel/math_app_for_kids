@@ -17,6 +17,12 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"></activity>
+        <activity android:name=".PlayGame">
+        </activity>
+        <activity android:name=".HowToPlay">
+        </activity>
+        <activity android:name=".HighScores">
+        </activity>
     </application>
 
 </manifest>

@@ -15,3 +15,5 @@ Feel free to fork this repo and any kind of help is really appreciated.
 - Right answers gives positive feedback, wrong answers negative
 - Speed of answering will be stored to create graph so any kind of progress in answering-speed can be viewed over time
 - And what else comes up while creating this app
+
+Another source that got me inspired: https://code.tutsplus.com/tutorials/android-sdk-create-an-arithmetic-game-setup-and-interface-creation--mobile-18557
